@@ -1,4 +1,4 @@
-#Notes for first class
+					#NOTES FOR FIRST CLASS
 -> To write the heading(with bold and big text) use # for it, and as the number of # increases the text number increases
 number of #'s = number of times the text displays
 example : #Subjects(Heading 1)
