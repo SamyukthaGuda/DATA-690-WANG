@@ -68,4 +68,5 @@ IPython is an interactive shell for python programming language that offers enha
 The Jupyter notebook system allows you to author content in Markdown and HTML, providing you a means to create rich documents with code and text.
 
 #Installation and Setup
+
 Go to python.org and download it. After downloading, install jupyter notebook. Inorder to install jupyter notebook go to command prompt and type the command which you need to download.  
