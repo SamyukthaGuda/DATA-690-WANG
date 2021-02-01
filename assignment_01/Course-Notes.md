@@ -1,5 +1,5 @@
-					**NOTES FOR CLASS1**
-					
+**Notes for Class1**
+
 -> To write the heading(with bold and big text) use # for it, and as the number of # increases the text number increases
 number of #'s = number of times the text displays
 example : #Subjects(Heading 1)
@@ -26,6 +26,7 @@ example : > notes for the first class
 
 
 **Python Basics**
+
 PYTHON:
 Python is a general-purpose, versatile, and powerful programming language. It’s a great first language because it’s concise and easy to read. Python is used from web development to machine learning to data science. It can be used on a server to create web applications.
 
