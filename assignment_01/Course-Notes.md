@@ -1,4 +1,5 @@
-					#NOTES FOR FIRST CLASS
+					**NOTES FOR CLASS1**
+					
 -> To write the heading(with bold and big text) use # for it, and as the number of # increases the text number increases
 number of #'s = number of times the text displays
 example : #Subjects(Heading 1)
@@ -24,8 +25,7 @@ example : > notes for the first class
 -> Inorder to add an image, add an exclamation mark(!), followed by alt text in braces, and the path or URL to image asset in paranthesis.
 
 
-#Python Language Basics
-
+**Python Basics**
 PYTHON:
 Python is a general-purpose, versatile, and powerful programming language. It’s a great first language because it’s concise and easy to read. Python is used from web development to machine learning to data science. It can be used on a server to create web applications.
 
